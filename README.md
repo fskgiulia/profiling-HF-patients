@@ -1,4 +1,4 @@
-# Profiling HF patients in Lombardy Region
+# Profiling Heart Failure patients in Lombardy Region
 The dataset is provided by Lombardy Region: administrative healthcare databases are created from records of service utilization and payments for payer or hospital billing purposes. Such databases contain large amounts of information on the diagnoses, procedures, resource utilization, and costs or charges of thousands (even millions) of patients. Our purpose is to:
 
 * Identify groups of patients with different characteristics
